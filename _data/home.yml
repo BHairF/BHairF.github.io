@@ -1,101 +1,99 @@
 navbar_entries:
-  - title: about
+  - title: Home
+    url: https://bhairf.github.io/
+
+  - title: About
     url: about
 
-  - title: blog
+  - title: 전체 게시글
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
-
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
-
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+  - title: 모각코 계획
+    url: 검머외-모각코-계획
+    desc: 팀 검머외 모각코 계획입니다
     highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  # - title: 1회차 계획 및 결과
+  #   url: 1회차 계획 및 결과
+  #   desc: Moonwalk also has horizontal list (used in header and footer)
+  #   highlight: WIP
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  # - title: 2회차 계획 및 결과
+  #   url: 2회차 계획 및 결과
+  #   desc: Moonwalk also has horizontal list (used in header and footer)
+  #   highlight: WIP
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  # - title: 3회차 계획 및 결과
+  #   url: 3회차 계획 및 결과
+  #   desc: Moonwalk also has horizontal list (used in header and footer)
+  #   highlight: WIP
+
+  # - title: 4회차 계획 및 결과
+  #   url: 4회차 계획 및 결과
+  #   desc: Moonwalk also has horizontal list (used in header and footer)
+  #   highlight: WIP
+
+  # - title: 5회차 계획 및 결과
+  #   url: 5회차 계획 및 결과
+  #   desc: Moonwalk also has horizontal list (used in header and footer)
+  #   highlight: WIP
+
+  # - title: 6회차 계획 및 결과
+  #   url: 6회차 계획 및 결과
+  #   desc: Moonwalk also has horizontal list (used in header and footer)
+  #   highlight: WIP
+
+  # - title: Project 6
+  #   url: overview-post
+  #   desc: It also has a scalable vertical list (in case you need it)
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
-
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/orgs/BHairF/repositories
 
   - title: feed
     url: feed.xml
 
 misc_entries:
-  - title: this is an example vertical list
-    url: false
+  - title: 김현수
+    url: https://iam-han9ry.tistory.com/
+    desc: https://iam-han9ry.tistory.com/
+    # desc: This is an example project, configured in _data/home.yml
 
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
+  - title: 박광욱
+    url: https://velog.io/@ccocco0609
+    desc: https://velog.io/@ccocco0609
+    # desc: Projects are shown in card layout
 
-  - title: and you can add data in _data/home.yml
-    url: false
+  - title: 박종경
+    url: https://parkjonggyeong.tistory.com/
+    desc: https://parkjonggyeong.tistory.com/
+    # desc: You can control visibility from _config.yml file
 
-  - title: Blog posts
-    post_list: true
-    url: false
+  - title: 최원준
+    url: https://velog.io/@vvon_joon
+    desc: https://velog.io/@vvon_joon
+    # desc: This project uses highlight markup, configured in _data/home.yml
 
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+  # - title: Blog posts
+  #   post_list: true
+  #   url: false
 
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
+  # - title: moonwalk on the Internet
+  #   url: false
+  #   entries:
+  #     - title: on Github
+  #       url: https://github.com/abhinavs/moonwalk
 
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
+  #     - title: originally built for abhinav's homepage
+  #       url: https://www.abhinav.co
 
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+  #     - title: this list is scalable and can be nested
+  #       url: false
+  #       entries:
+  #         - title: this is nested inside a nested list
+  #           url: false
 
-
+  #         - title: it is easy to use, see _data/home.yml to see how to configure it.
+  #           url: false

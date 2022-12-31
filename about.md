@@ -3,6 +3,13 @@ layout: post
 title: About
 ---
 
-This is an example page!
+이 블로그는 검머외 팀원들의 모각코 기록을 위해 개설된 블로그 입니다.
 
-Actually, it has the same layout of a post...
+팀원
+
+- 김현수, 박광욱, 박종경, 최원준
+
+모임 일정
+
+- 기간: 2022.01. 20 ~ 2022.02. 17
+- 시간: 주 1 ~ 2회 (회당 최소 3시간)
