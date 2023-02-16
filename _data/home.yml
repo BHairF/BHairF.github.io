@@ -12,41 +12,30 @@ project_entries:
   - title: 모각코 계획
     url: 검머외-모각코-계획
     desc: 팀 검머외 모각코 계획입니다
-    highlight: NEW
 
-  # - title: 1회차 계획 및 결과
-  #   url: 1회차 계획 및 결과
-  #   desc: Moonwalk also has horizontal list (used in header and footer)
-  #   highlight: WIP
+  - title: 1회차 계획 및 결과
+    url: 검머외-모각코-1회차
+    desc: 모각코 1회차
 
-  # - title: 2회차 계획 및 결과
-  #   url: 2회차 계획 및 결과
-  #   desc: Moonwalk also has horizontal list (used in header and footer)
-  #   highlight: WIP
+  - title: 2회차 계획 및 결과
+    url: 검머외-모각코-2회차
+    desc: 모각코 2회차
 
-  # - title: 3회차 계획 및 결과
-  #   url: 3회차 계획 및 결과
-  #   desc: Moonwalk also has horizontal list (used in header and footer)
-  #   highlight: WIP
+  - title: 3회차 계획 및 결과
+    url: 검머외-모각코-3회차
+    desc: 모각코 3회차
 
-  # - title: 4회차 계획 및 결과
-  #   url: 4회차 계획 및 결과
-  #   desc: Moonwalk also has horizontal list (used in header and footer)
-  #   highlight: WIP
+  - title: 4회차 계획 및 결과
+    url: 검머외-모각코-4회차
+    desc: 모각코 4회차
 
-  # - title: 5회차 계획 및 결과
-  #   url: 5회차 계획 및 결과
-  #   desc: Moonwalk also has horizontal list (used in header and footer)
-  #   highlight: WIP
+  - title: 5회차 계획 및 결과
+    url: 검머외-모각코-5회차
+    desc: 모각코 5회차
 
-  # - title: 6회차 계획 및 결과
-  #   url: 6회차 계획 및 결과
-  #   desc: Moonwalk also has horizontal list (used in header and footer)
-  #   highlight: WIP
-
-  # - title: Project 6
-  #   url: overview-post
-  #   desc: It also has a scalable vertical list (in case you need it)
+  - title: 6회차 계획 및 결과
+    url: 검머외-모각코-6회차
+    desc: 모각코 6회차
 
 footer_entries:
   - title: github
