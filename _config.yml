@@ -2,7 +2,7 @@ title: 팀 "검머외" 모각코 팀  블로그
 author: 검머외
 url: https://bhairf.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  이 블로그는 검머외 팀원들의 모각코 기록을 위해 개설된 블로그 입니다.
+  이 블로그는 검머외 팀원들의 모각코 기록을 위해 개설된 팀 블로그 입니다.
 
 permalink: /:slug
 
